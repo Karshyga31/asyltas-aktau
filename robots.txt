@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karshyga31.github.io/asyltas-aktau/sitemap.xml
